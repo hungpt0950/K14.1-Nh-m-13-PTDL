@@ -1,0 +1,39 @@
+
+“python:S1192}"VDefine a constant instead of duplicating this literal 'Giáº¥y tá» phÃ¡p lÃ½' 5 times.(¼ûÜPJ$d9e7cb1d-6914-44b8-bade-f560596b1f32
+‘python:S1192é"MDefine a constant instead of duplicating this literal 'Äá»‹a chá»‰' 3 times.(­Š°‡üÿÿÿÿJ$82a37007-3b8d-4e7a-8fe7-f498d23e1a18
+–python:S1192,"SDefine a constant instead of duplicating this literal 'Sá»‘ phÃ²ng ngá»§' 10 times.(ËçìùÿÿÿÿJ$fe9d4ab2-9c4a-4f84-a2c2-893dca457f31
+Špython:S1192)"LDefine a constant instead of duplicating this literal 'Sá»‘ táº§ng' 6 times.(¯¾´™J$05d57f56-d829-4563-bbe9-63129d3fecf5
+™python:S1192|"VDefine a constant instead of duplicating this literal 'Loáº¡i hÃ¬nh nhÃ  á»Ÿ' 5 times.(ó­ÊûÿÿÿÿJ$4fdec9d9-8140-4761-a53f-0c8c53dd55bc
+Œpython:S1192Ô"HDefine a constant instead of duplicating this literal 'Huyá»‡n' 4 times.(Â£’ˆùÿÿÿÿJ$312ad0f7-cb31-4163-857a-d98f53bc2931
+‹python:S11921"MDefine a constant instead of duplicating this literal 'Diá»‡n tÃ­ch' 6 times.(Å“»ñJ$b700cc86-7863-40d3-93d5-a830e8775841
+”python:S1192"PDefine a constant instead of duplicating this literal 'Times new Roman' 6 times.(Á÷¥±ûÿÿÿÿJ$17d152de-f554-468e-a501-1981481e96bd
+python:S1192"QDefine a constant instead of duplicating this literal 'Times New Roman' 13 times.(Ôı­‚J$2f63970b-bd7e-48bd-99c2-988e6ea6fb20
+…python:S2208"GImport only needed names or import the module and then use its members.(ï€¢J$adf8c671-f686-4fce-a041-1024498de62c
+apython:S125"Remove this commented out code.(øé¤ÌøÿÿÿÿJ$fba12695-a96f-42c4-879b-f9a980d61afc
+apython:S125"Remove this commented out code.(õö­´úÿÿÿÿJ$e710cd27-bac5-4c69-bf96-e7e37a7a5fc1
+xpython:S6734""5Do not use "inplace=True" when modifying a dataframe.(Ö šÖÿÿÿÿÿJ$2e29796d-e25a-4488-995d-7cb99e92c33f
+\python:S125#"Remove this commented out code.(Éˆ×J$11f38360-bcaf-4847-b62d-8cac82ae5f25
+apython:S1254"Remove this commented out code.(œÓ±úùÿÿÿÿJ$20f04baa-b3bf-47b2-bb1b-7e81bf8d1ff0
+\python:S1259"Remove this commented out code.(íÖæïJ$d9e141d2-38e2-47f0-aed9-55ce1d67410e
+‘python:S1542y"NRename function "ClickBtn" to match the regular expression ^[a-z_][a-z0-9_]*$.(ß÷ıÔøÿÿÿÿJ$f3b1bba4-234f-4b1a-95ec-c18bba34aceb
+”python:S1542"URename function "ClickBtnHeatMap" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î‹à¥J$a9bb1b8a-c505-4bfb-9793-022e424760e3
+]python:S125Œ"Remove this commented out code.(ŞÑó†J$524b6dc2-414b-4f64-9e23-33dc4ac1588b
+python:S1542“"QRename function "SlQuanLayTT" to match the regular expression ^[a-z_][a-z0-9_]*$.(®†ŞğJ$785433ba-a45d-4e23-af37-aa59f08774f1
+”python:S1542œ"PRename function "CacKieuNha" to match the regular expression ^[a-z_][a-z0-9_]*$.(šˆÒ¼ÿÿÿÿÿJ$c6755af9-3ea3-4d64-a92a-04ce1830b953
+–python:S1542¤"RRename function "GiayToPhapLy" to match the regular expression ^[a-z_][a-z0-9_]*$.(–øíœÿÿÿÿÿJ$b4225927-1ff6-4723-b043-386991be4b1c
+‹python:S1542«"LRename function "SLTANG" to match the regular expression ^[a-z_][a-z0-9_]*$.(„Ú±¨J$f28a2750-7b06-4ad0-91f2-9ff073d78d13
+python:S1542²"PRename function "SLPHONGNGU" to match the regular expression ^[a-z_][a-z0-9_]*$.(öéöÿJ$4f3086b4-b166-4dbf-9556-3b03fdb66c79
+python:S1542¹"NRename function "DIENTICH" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü‡æ­J$2c0847d7-ac50-4042-b7c3-3194a1fe0c49
+python:S1542À"IRename function "GIA" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰ÔğúÿÿÿÿJ$81c924ba-a617-4c58-88dc-ce716a6030a5
+]python:S125Á"Remove this commented out code.(«®¼ÓJ$d99ab158-6384-45b7-8572-2dba8db7759a
+¡python:S1542Ñ"]Rename function "TILEPHANBONHAOCACPHUONG" to match the regular expression ^[a-z_][a-z0-9_]*$.(úäæÃıÿÿÿÿJ$bdfaefe0-8d96-4463-a827-43b854872e14
+ python:S1542İ"\Rename function "BIEUDOPHANBO2THANHPHAN" to match the regular expression ^[a-z_][a-z0-9_]*$.(™÷ëÂşÿÿÿÿJ$7489b799-a652-4347-9c27-37052ec80fca
+bpython:S125Ş"Remove this commented out code.(üÌÏ’ûÿÿÿÿJ$e4baeff0-0900-48b9-bc4e-4d78234afdfd
+špython:S1542ô"VRename function "HamXuatFileSauXL" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÇÈ»ŞúÿÿÿÿJ$65d71989-f03e-4630-bb65-0a5dcc2806a6
+]python:S125ñ"Remove this commented out code.(€òµJ$38807bcf-2caf-4932-bfa5-dcf8ced28ff2
+bpython:S125„"Remove this commented out code.(‚ƒ©½ùÿÿÿÿJ$e04e798f-5b1d-44c2-9d61-01c9d9ce8dbd
+]python:S125‡"Remove this commented out code.(ã€ÂËJ$a56a01df-5d21-42fd-9c6b-180cdb99d137
+bpython:S125Š"Remove this commented out code.(Ú¦¦¦øÿÿÿÿJ$cd365851-aa25-4c21-b869-e5396d3d172c
+]python:S125‘"Remove this commented out code.(Ïó»şJ$978be581-745c-4fa2-b33b-9baae5455376
+python:S1542›"QRename function "FUNCTIONPCA" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚşôJ$44f18d44-4254-4a56-b23f-c1773847d67e
+]python:S125¨"Remove this commented out code.(×º§êJ$9e75c221-ca74-4d51-8fdf-c2953d9e1aa5
